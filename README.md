@@ -9,11 +9,11 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* EMX Libs
 
 AUTHORS
 ===============
-* 
+* B.Horeni
 
 LINKS
 ===============
